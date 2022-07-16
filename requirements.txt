@@ -2,3 +2,6 @@ streamlit
 numpy
 plotly.express
 pandas
+MetaTrader5
+datetime
+streamlit_option_menu
